@@ -1,0 +1,30 @@
+/* Result.css */
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f4f4f4; /* Add your desired background color */
+  }
+  
+  .quiz-title {
+    text-align: center;
+    color: #007bff; /* Add your desired title color */
+  }
+  
+  .result-container {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+  }
+  
+  .result-container a {
+    display: block;
+    margin-top: 20px;
+    color: #007bff; /* Add your desired link color */
+    text-decoration: none;
+  }
+  

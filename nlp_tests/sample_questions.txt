@@ -1,0 +1,6 @@
+Question,Option A,Option B,Option C,Option D
+What is the capital of France?,Paris,Berlin,London,Madrid
+Which programming language is known for its simplicity?,Python,Java,C++,JavaScript
+Who is the author of "To Kill a Mockingbird"?,Harper Lee,Ernest Hemingway,J.K. Rowling,George Orwell
+What is the largest planet in our solar system?,Jupiter,Saturn,Mars,Earth
+Which color is not in the rainbow?,Black,Red,Blue,Yellow
